@@ -1,0 +1,11 @@
+.container{
+   align-content: center;
+}
+
+.row{
+   align-items: center;
+}
+
+.boton{
+   background-color:green;
+}
